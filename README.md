@@ -11,7 +11,14 @@
 | Сервер (API) | `Server/` | 5198 | http://localhost:5198/api |
 | Клиент (сайт) | `client/` | 5173 | http://localhost:5173 |
 
-Понадобятся Node.js 24 или новее и npm. Запуск в двух терминалах. В первом сервер:
+Понадобятся Node.js 24 или новее, npm и Git. Скачать проект:
+
+```sh
+git clone https://github.com/karkachy/raznoboy.git
+cd raznoboy
+```
+
+Запуск в двух терминалах. В первом сервер:
 
 ```sh
 cd Server
