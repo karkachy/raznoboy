@@ -1,0 +1,9 @@
+# Все текстовые файлы хранятся с окончаниями строк LF, как их пишут Node и редакторы.
+* text=auto eol=lf
+*.docx binary
+*.jpg binary
+*.png binary
+*.avif binary
+*.webp binary
+*.mp4 binary
+*.woff2 binary
